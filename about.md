@@ -4,40 +4,30 @@ title: Tentang
 permalink: /tentang/
 ---
 
-Hai! Saya Edwin. Saya suka menulis kode dan membagikannya ke semua orang. Saya akan menulis tentang kode, framework, metode, dan produk yang saya buat. Saya juga akan membagikan pengalaman saya. :)
+Hi! I'm Christo!
+I'm a frontend developer that have skills at :
 
-Semua tulisan saya di blog ini akan berbahasa Indonesia.
+<div class="mdl-grid" align="center">
+  <div class="mdl-cell mdl-cell--4-col">
+  	<i class="fa fa-html5 fa-4x"></i>
+  	<h4>HTML5</h4>
+  </div>
+  <div class="mdl-cell mdl-cell--4-col">
+  	<i class="fa fa-css3 fa-4x"></i>
+  	<h4>CSS3</h4>	
+  </div>
+  <div class="mdl-cell mdl-cell--4-col">
+  	<i class="fa fa-terminal fa-4x"></i>
+  	<h4>Python</h4>
+  </div>
+</div>
+<center><canvas id="skills" width="250" height="250"></canvas></center>
+I am available for freelance work, contact me at andre.christoga@gmail.com
+But... before sending me an email, 
+view the requirements, make sure the job doesnt have min-age ;)
 
-Saya merupakan seorang insinyur perangkat lunak(software engineer) yang sekarang:
+I currently living at Jakarta.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.7805735632382!2d106.91437185008911!3d-6.16013549551814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698acc410ed719%3A0x87195a50598a8260!2sJl.+Raya+Pegangsaan+Dua%2C+Klp.+Gading%2C+Kota+Jkt+Utara%2C+Daerah+Khusus+Ibukota+Jakarta!5e0!3m2!1sen!2sid!4v1449824427822" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-- bekerja di [happyfresh.com][17]
-- mengembangkan [kuliahkita.com][2] dan [pikavia.com][16]
-- menulis di blog [suitmedia.github.io][3], [edwinlunando.blogspot.com][4], dan [python.or.id][5]
-- mampu menulis kode dalam bahasa [Python][6], [Ruby][7], [C#][8], dan [PHP][9]. Fokus di Python
-- menggunakan web framework [Django][12], [Rails][13], [ASP MVC][14], dan [Laravel][15]. Fokus di Django
-- merupakan pegiat open-source. [django-naomi][10] dan [arunafelt][11]
-- mengurus komunitas [Python ID][18]
-- melakukan riset di bidang [analisis sentimen][19].
-- berdomisili di Jakarta Selatan.
 
-Sekian dan terima kasih.
 
-[1]:    http://suitmedia.com
-[2]:    http://kuliahkita.com
-[3]:    https://suitmedia.github.io
-[4]:    http://edwinlunando.blogspot.com
-[5]:    http://python.or.id
-[6]:    http://python.org/
-[7]:    https://www.ruby-lang.org
-[8]:    http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29
-[9]:    http://php.net/
-[10]:   https://github.com/edwinlunando/django-naomi
-[11]:   https://github.com/edwinlunando/arunafelt
-[12]:   https://www.djangoproject.com/
-[13]:   http://rubyonrails.org/
-[14]:   http://www.asp.net/mvc
-[15]:   http://laravel.com/
-[16]:   http://pikavia.com/
-[17]:   https://happyfresh.com/
-[18]:   http://www.meetup.com/Python-ID/
-[19]:   http://arxiv.org/abs/1505.03085
