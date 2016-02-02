@@ -4,8 +4,8 @@ title: Tentang
 permalink: /tentang/
 ---
 
-Hi! I'm Christo!
-I'm a frontend developer that have skills at :
+Hi ther! I'm Christo! <br>
+I'm a _cool nerd_ that have skills at:
 
 <div class="mdl-grid" align="center">
   <div class="mdl-cell mdl-cell--3-col">
