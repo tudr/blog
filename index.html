@@ -37,7 +37,7 @@ layout: default
   {% endif %}
   <span class="page_number ">Halaman: {{ paginator.page }} dari {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Selanjutnya</a>
+    <a href="{{ paginator.next_page_path }}" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Next</a>
   {% else %}
   {% endif %}
 </div>
