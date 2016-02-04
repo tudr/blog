@@ -5,7 +5,7 @@ description: "Tech geek, Technologist, Frontend Dev, Developer, Nerdy Boy, Techn
 username: andrechristoga
 baseurl: "/blog"
 url: "http://christoga.github.io/blog"
-paginate: 5
+paginate: 10
 paginate_path: "/halaman/:num/"
 
 # Build settings`
