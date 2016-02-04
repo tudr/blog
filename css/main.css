@@ -417,6 +417,10 @@ pre { white-space: pre; overflow: auto; }
   margin-bottom: 16px;
 }
 
+.page_number.pagination {
+  width: 100%;
+}
+
 .highlight code, .highlight pre {
 color:#fdce93;
 background-color:#3f3f3f;
