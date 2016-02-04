@@ -4,7 +4,7 @@ title: Tentang
 permalink: /tentang/
 ---
 
-Hi ther! I'm Christo! <br>
+Hi there! I'm Christo! <br>
 I'm a _cool nerd_ that have skills at:
 
 <div class="mdl-grid" align="center">
