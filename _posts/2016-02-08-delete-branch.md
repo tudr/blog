@@ -4,6 +4,7 @@ title: Deleting a git branch
 date: 2016-01-20
 categories: tips-tricks
 author: Andre Christoga
+header_image: img/git.jpg
 ---
 Sometimes I accidently press `enter`,<br> and created a branch named `gh` instead of `gh-pages`.
 
@@ -18,7 +19,7 @@ The command have two choices,<br> You can use `:` or `--deleted`,<br> the comman
 
 ### 1. Using `:`
 ```shell
-git push -u origin :branch 
+git push -u origin :branch
 ```
 <br>
 
@@ -31,6 +32,3 @@ git push -u origin branch --delete
 [http://js.org]() <br>
 [https://github.com/js-org/dns.js.org/wiki]() <br>
 [https://github.com/js-org/dns/wiki/Subdomain-Determination]()
-
-
-
