@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get dropdown value in javascript
-date: 2016-03-04
+date: 2016-03-05
 categories: tips-tricks
 author: Andre Christoga
 header_image: img/dropdown.png
