@@ -4,7 +4,7 @@ email: tudor@saitoc.me
 description: "Tech geek, Technologist, Frontend Dev, Developer, Nerdy Boy, Technokid!"
 username: tudr
 baseurl: "/blog"
-url: "http://tudr.github.io/blog"
+url: "https://blog.tudr.co"
 paginate: 10
 paginate_path: "/halaman/:num/"
 
