@@ -1,10 +1,10 @@
 # Site settings
-title: Andre Christoga
-email: andre.christoga@gmail.com
+title: Tudor Saitoc
+email: tudor@saitoc.me
 description: "Tech geek, Technologist, Frontend Dev, Developer, Nerdy Boy, Technokid!"
-username: andrechristoga
+username: tudr
 baseurl: "/blog"
-url: "http://christoga.github.io/blog"
+url: "http://tudr.github.io/blog"
 paginate: 10
 paginate_path: "/halaman/:num/"
 
@@ -12,4 +12,4 @@ paginate_path: "/halaman/:num/"
 markdown: kramdown
 permalink: pretty
 gems: [jekyll-paginate]
-highlighter: pygments
+highlighter: rouge
